@@ -37,7 +37,7 @@ export default class CreateTodo extends React.Component {
             <input
               className="form-control"
               type="text"
-              placeholder="What shall I do today?"
+              placeholder="What you wanna do today?"
               ref="createInput"
             />
             <div className="input-group-btn">
